@@ -1,0 +1,5 @@
+year,waste_generated,waste_recycled,energy_consumption,recycled_material_used,non_reusable_waste_generated,Transportation/Storage Waste (tons),transportation_storage_waste,green_energy_consumption
+2019,4500,1500,500000,60,800,100,40,40
+2020,4200,1600,480000,65,750,90,45,45
+2021,4100,1700,460000,70,700,80,50,50
+2022,3800,1800,440000,75,650,70,55,55
