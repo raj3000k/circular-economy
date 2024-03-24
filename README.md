@@ -8,6 +8,13 @@ Members:
 
 - Our vision is to develop a circular economy model for a Hi-Tech manufacturing company. The objectives of our strategy include: To extend the lifecycles of the materials used in the manufacturing supply chain.  Promoting Reuse, and recycling of materials.  Minimizing the use of finite resources in supply chain, operations, and logistics.
 
+# File Descriptions:
+
+- company_data.csv is the sample dataset.
+- Dashboard2-LCA-Score (ML Model).ipnyb is the Jupyter notebook file of our codebase and 2nd dashboard + LCA Score ML Model.
+- Prototype1-Dashboard-1(Power BI FIle).pbix is the POWER BI file of our 1st Dashboard.
+
+
 # Dashboard 1
 
 
